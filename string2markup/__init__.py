@@ -1,4 +1,4 @@
-class Mu:
+class S2M:
     def __init__(self, text):
         self.text = str(text)
 
